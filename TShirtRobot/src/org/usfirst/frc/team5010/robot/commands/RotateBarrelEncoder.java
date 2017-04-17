@@ -1,7 +1,6 @@
 package org.usfirst.frc.team5010.robot.commands;
 
 import org.usfirst.frc.team5010.robot.RobotMap;
-import org.usfirst.frc.team5010.robot.subsystems.Barrel;
 
 import edu.wpi.first.wpilibj.command.Command;
 import edu.wpi.first.wpilibj.smartdashboard.SmartDashboard;

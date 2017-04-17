@@ -48,7 +48,6 @@ public class OI {
 	private Button buttonB = new JoystickButton(joyDriver, 2);
 	private Button buttonX = new JoystickButton(joyDriver, 3);
 	private Button buttonY = new JoystickButton(joyDriver, 4);
-	private Button buttonLB = new JoystickButton(joyDriver, 5);
 	private Button buttonRB = new JoystickButton(joyDriver, 6);
 	
 	
