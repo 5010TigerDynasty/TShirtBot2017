@@ -28,6 +28,7 @@ public class Robot extends IterativeRobot {
 	 * used for any initialization code.
 	 */
 	@Override
+	//let's start
 	public void robotInit() {
 		RobotMap.init();
 		oi = new OI();
